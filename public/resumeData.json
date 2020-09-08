@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Guruprakash Rajendran",
+    "occupation": "Pronto Developer @Pronto Software",
+    "description": "Pronto 4GL Developer, Freelance React/NodeJS Full stack Developer",
+    "image": "IG_Guru.jpeg",
+    "bio": "My name is Guruprakash Rajendran, I'm a experienced Pronto Developer. Currently I'm working for Pronto Software while also freelancing React Projects",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "prakashgurur@gmail.com",
+    "phone": "+61 452343409",
+    "address": {
+      "street": "Tarneit",
+      "city": "Melbourne",
+      "state": "AUS",
+      "zip": "3029"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/GuruPrakash/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/guruprakashr/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/guruprakash/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/guruprakash-aus",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Python, Javascript, NodeJS, NPM, Express, React, REST APIs, Postman, Back-end API frameworks, SQL, MongoDB, Mongoose, XML, HTML/CSS, Pronto 4GL, C#, .NET, Java, C, C++",
+    "education": [
+      {
+        "school": "University of Ballarat",
+        "degree": "Masters in Information Systems",
+        "graduated": "July 2011",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Pronto Software",
+        "title": "Developer",
+        "years": "May 2018 - Present",
+        "description": "Developing Custom Solutions based on Client Business needs in addition to existing core software"
+      },
+      {
+        "company": "SPS Commerce",
+        "title": "EDI Solutions Developer",
+        "years": "July 2017 - May 2018",
+        "description": "Developing maps for EDI transactions in C#, .NET, XML/XSLT"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Weather App",
+        "category": "Build using NodeJS, HTML/CSS",
+        "image": "Weather-app.jpg",
+        "url": "https://gurupra-weather-application.herokuapp.com/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sample Testimonial",
+        "user": "UserSample"
+      }
+    ]
+  }
+}
