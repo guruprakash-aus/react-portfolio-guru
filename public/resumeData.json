@@ -14,8 +14,8 @@
       "state": "AUS",
       "zip": "3029"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1zwqJsMBMvKpJOP7o08Bx18o8duHCjv1s/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -54,31 +54,43 @@
         "company": "Pronto Software",
         "title": "Developer",
         "years": "May 2018 - Present",
-        "description": "Developing Custom Solutions based on Client Business needs in addition to existing core software"
+        "description": "Developing Custom Solutions in APIs, Front-end based mobile service, POS APP and POS retail solutions."
       },
       {
         "company": "SPS Commerce",
         "title": "EDI Solutions Developer",
         "years": "July 2017 - May 2018",
-        "description": "Developing maps for EDI transactions in C#, .NET, XML/XSLT"
+        "description": "Developing maps for EDI transactions in C#, .NET, XML/XSLT, HTML/CSS, Regular expressions and SQL"
       }
     ],
     "skills": [
       {
+        "name": "Pronto 4GL",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Node JS",
+        "level": "80%"
+      },
+      {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "20%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "75%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "80%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Python",
+        "level": "75%"
       },
       {
         "name": "HTML5",
